@@ -17,7 +17,7 @@ Videos in [YouTube](https://www.youtube.com/playlist?list=PL0AtGYcg6CP-NyUccbNYY
     <td>
       <ul>
         <li>
-          [x] <a href="http://www.codeskulptor.org/#user43_2OiD0caumf_0.py">Rock-paper-scissors-lizard-Spock</a>
+          [x] <a href="http://www.codeskulptor.org/#user43_2OiD0caumf_0.py">PA1 - Rock-paper-scissors-lizard-Spock</a>
         </li>
       </ul>
     </td>
@@ -29,7 +29,7 @@ Videos in [YouTube](https://www.youtube.com/playlist?list=PL0AtGYcg6CP-NyUccbNYY
     <td>
       <ul>
         <li>
-          [x] <a href="http://www.codeskulptor.org/#user43_h8ZiuoEmml_0.py">Guess the Number!</a>
+          [x] <a href="http://www.codeskulptor.org/#user43_h8ZiuoEmml_0.py">PA2 - Guess the Number!</a>
         </li>
       </ul>
     </td>
@@ -41,7 +41,7 @@ Videos in [YouTube](https://www.youtube.com/playlist?list=PL0AtGYcg6CP-NyUccbNYY
     <td>
       <ul>
         <li>
-          [x] <a href="http://www.codeskulptor.org/#user43_VIajy7NaN1_1.py">Stopwatch: The Game</a>
+          [x] <a href="http://www.codeskulptor.org/#user43_VIajy7NaN1_1.py">PA3 - Stopwatch: The Game</a>
         </li>
       </ul>
     </td>
@@ -53,7 +53,7 @@ Videos in [YouTube](https://www.youtube.com/playlist?list=PL0AtGYcg6CP-NyUccbNYY
     <td>
       <ul>
         <li>
-          [x] <a href="http://www.codeskulptor.org/#user43_6MWjxkY0pr_1.py">Pong</a>
+          [x] <a href="http://www.codeskulptor.org/#user43_6MWjxkY0pr_1.py">PA4 - Pong</a>
         </li>
       </ul>
     </td>
